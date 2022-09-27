@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkelement_popover_demo"]=self["webpackChunkelement_popover_demo"]||[]).push([[775],{3775:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var u=function(){var e=this,n=e._self._c;return n("section",{staticClass:"app-main"},[n("router-view")],1)},l=[],r={name:"AppMain"},o=r,p=t(1001),s=(0,p.Z)(o,u,l,!1,null,null,null),a=s.exports}}]);
+//# sourceMappingURL=775.12448483.js.map
